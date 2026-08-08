@@ -143,24 +143,6 @@ Primary DBA on Oracle integration for ICG/GCG banking projects — RAC, Data Gua
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sureshavulaaiarchitect&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=4A9EF7&icon_color=4A9EF7" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshavulaaiarchitect&layout=compact&hide_border=true&theme=tokyonight&title_color=4A9EF7&langs_count=8" height="165" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sureshavulaaiarchitect&theme=tokyonight&hide_border=true&border_radius=8&ring=4A9EF7&fire=4A9EF7&currStreakLabel=4A9EF7" height="165" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sureshavulaaiarchitect&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
-
-</div>
-
-
 ---
 
 ## 🤝 Let's Connect
