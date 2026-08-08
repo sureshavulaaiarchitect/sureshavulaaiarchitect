@@ -6,7 +6,7 @@ I design and operate **petabyte-scale data and database platforms** that power p
 
 I've been the enterprise Database / Data / SRE / Cloud Architect on multiple **unicorn growth journeys** — modeling multi-billion-dollar products, engineering systems that ingest terabytes daily, analyze terabyte-to-petabyte volumes, and synchronize terabyte-scale datasets across clouds.
 
-📫 **sureshbabuavula@gmail.com** · 📱 +91-7893633094
+📫 **sureshbabuavula@gmail.com** 
 
 ---
 
