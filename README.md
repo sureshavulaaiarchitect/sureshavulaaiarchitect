@@ -126,13 +126,7 @@ The threat model, chaos results, scalability sweep to 2,000 concurrent workers, 
   Delete these slots rather than filling them with anything thin.
 -->
 
-## `project-two`
 
-**One-line description.** What breaks without it, in two sentences. How it's built. One number that proves it works.
-
-## `project-three`
-
-Same shape.
 
 ---
 
