@@ -1,12 +1,24 @@
-# Hi, I'm Suresh Babu Avula 👋
+<div align="center">
 
-### Enterprise Architect — Data, Databases & AI | Digital & AI Transformation Leader | FinOps & Cloud
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Suresh%20Babu%20Avula&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Architect%20%C2%B7%20Data%20%C2%B7%20Databases%20%C2%B7%20AI%20%C2%B7%20Cloud%20%C2%B7%20FinOps&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4A9EF7&center=true&vCenter=true&width=680&lines=Enterprise+Data+%26+AI+Architect;18%2B+Years+Building+Petabyte-Scale+Platforms;%2440M%2B+Saved+Through+FinOps+%26+Cloud+Optimization;AI+%26+Digital+Transformation+Leader" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sureshavulaaiarchitect&label=Profile%20Views&color=4A9EF7&style=for-the-badge" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sureshbabuavula@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
 
 I design and operate **petabyte-scale data and database platforms** that power products used by the world's largest enterprises. Eighteen-plus years turning hard, global-scale data problems into durable competitive advantage — across **OLTP, OLAP, in-memory, search, and lakehouse** workloads on every major cloud.
 
 I've been the enterprise Database / Data / SRE / Cloud Architect on multiple **unicorn growth journeys** — modeling multi-billion-dollar products, engineering systems that ingest terabytes daily, analyze terabyte-to-petabyte volumes, and synchronize terabyte-scale datasets across clouds.
-
-📫 **sureshbabuavula@gmail.com** 
 
 ---
 
@@ -35,37 +47,62 @@ I've been the enterprise Database / Data / SRE / Cloud Architect on multiple **u
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Cloud**
-`AWS` · `Azure` · `GCP` · `OCI`
+<div align="center">
 
-**Databases**
-`Oracle` · `PostgreSQL` · `Snowflake` · `SingleStore` · `ClickHouse` · `OceanBase` · `Redshift` · `MongoDB` · `Elasticsearch` · `Redis` · `Cassandra`
+**Cloud & Operating Systems**
 
-**Data Modeling**
-`OLTP & OLAP` · `Dimensional (Star / Snowflake)` · `ER Modeling` · `Normalization` · `Partitioning`
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,openstack,linux,redhat)](https://skillicons.dev)
 
-**Data Platforms / Lakehouse**
-`Databricks` · `Delta Lake` · `Apache Iceberg` · `dbt` · `Kafka` · `Hadoop` · `BigQuery` · `S3 Data Lakes`
+**Databases & Cache**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,cassandra)](https://skillicons.dev)
+
+**Streaming, Containers & CI/CD**
+
+[![DevOps](https://skillicons.dev/icons?i=kafka,docker,kubernetes,openshift,jenkins,ansible,terraform)](https://skillicons.dev)
+
+**Version Control, Languages & Monitoring**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,py,bash,grafana,prometheus)](https://skillicons.dev)
+
+<br/>
+
+**Data Platforms & Lakehouse**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![SingleStore](https://img.shields.io/badge/SingleStore-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
+![OceanBase](https://img.shields.io/badge/OceanBase-2A6CE5?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-1C86EE?style=for-the-badge&logo=apacheiceberg&logoColor=white)
 
 **AI Engineering**
-`RAG Pipelines` · `AI Agents` · `MCP Servers` · `LLM Integration` · `pgvector` · `ChromaDB` · `Ollama`
 
-**FinOps**
-`Apptio (IBM Cloudability)` · `AWS Cost Explorer` · `EDP / MAP Negotiations`
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-5A67D8?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP%20Servers-6B46C1?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM%20Integration-10A37F?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 
-**DevOps / CI-CD**
-`Jenkins` · `ArgoCD` · `Ansible` · `Terraform` · `CloudFormation` · `Docker` · `Kubernetes` · `OpenShift` · `Git`
+**FinOps & Observability**
 
-**Profiling / Tuning**
-`AWR` · `ADDM` · `ASH` · `EXPLAIN ANALYZE` · `pg_stat_statements` · `SQL Server Profiler`
+![Apptio](https://img.shields.io/badge/Apptio%20Cloudability-005EB8?style=for-the-badge)
+![AWS Cost Explorer](https://img.shields.io/badge/AWS%20Cost%20Explorer-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-C8000B?style=for-the-badge&logo=nagios&logoColor=white)
 
-**Observability**
-`Datadog` · `Splunk` · `Nagios`
-
-**Scripting**
-`Python` · `Shell`
+</div>
 
 ---
 
@@ -106,8 +143,44 @@ Primary DBA on Oracle integration for ICG/GCG banking projects — RAC, Data Gua
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sureshavulaaiarchitect&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=4A9EF7&icon_color=4A9EF7" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshavulaaiarchitect&layout=compact&hide_border=true&theme=tokyonight&title_color=4A9EF7&langs_count=8" height="165" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sureshavulaaiarchitect&theme=tokyonight&hide_border=true&border_radius=8&ring=4A9EF7&fire=4A9EF7&currStreakLabel=4A9EF7" height="165" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sureshavulaaiarchitect&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/sureshavulaaiarchitect/sureshavulaaiarchitect/output/snake.svg)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 Driven by high-impact mandates — solving global-scale data, database, cloud, and AI problems alongside world-class teams. Always open to conversations about enterprise architecture, AI transformation, and FinOps.
 
-📧 sureshbabuavula@gmail.com
+<div align="center">
+
+<a href="mailto:sureshbabuavula@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
