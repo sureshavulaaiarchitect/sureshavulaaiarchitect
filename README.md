@@ -160,15 +160,6 @@ Primary DBA on Oracle integration for ICG/GCG banking projects — RAC, Data Gua
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sureshavulaaiarchitect/sureshavulaaiarchitect/output/snake.svg)
-
-</div>
 
 ---
 
